@@ -1,0 +1,1 @@
+* * * * * /bin/bash -l -c "cd /home/thermouser/thermofidz-client; bash worker.sh"
